@@ -14,7 +14,7 @@
 
 ## 🚀 Установка:
 
-- 😧 Скачайте <a href="https://github.com/Hacker123ter/HubItemWind-OmxRealm" target="_blank">HubItemWind-1.0.0-OmxRealm.jar</a>.
+- 😧 Скачайте <a href="https://github.com/Hacker123ter/HubItemWind-OmxRealm/raw/HubItemWind/target/HubItemWind-1.0.0-OmxRealm.jar" target="_blank">HubItemWind-1.0.0-OmxRealm.jar</a>.
 - 🐈 Переместите его в папку "plugins" вашего сервера. (Убедитесь что Ядро и версия совместимы с плагином)
 - 🪄 Перезапустите сервер.
 - 😸 Радуйтесь жизни!
