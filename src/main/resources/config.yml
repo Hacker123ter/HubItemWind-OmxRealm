@@ -1,0 +1,9 @@
+item:
+  material: OXIDIZED_COPPER_DOOR
+  slot: 4
+  name: "&#FC0505Меню магазина ветра"
+  description:
+    - "Это &#FC0505специальный &#05FC05предмет"
+    - "он &#0505FCвыполняет команду"
+  command: "wind"
+sound: 'ENTITY_ITEM_PICKUP'

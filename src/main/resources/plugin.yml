@@ -1,0 +1,18 @@
+name: HubItemWind
+version: '1.0.0-OmxRealm'
+main: org.dw363.HubItemWind
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Плагин, добавляющий автопредмет в хаб для открытия меню покупки ветра. Создано специально для сервера OmxRealm. Project The OMX
+website: https://github.com/Hacker123ter
+commands:
+  HubItemWind:
+    description: Основная команда HubItemWind
+    usage: /<command> reload
+    permission: hubitemwind.reload
+    permission-message: У вас нет прав для использования данной команды.
+permissions:
+  hubitemwind.reload:
+    description: Позволяет перезагрузить конфигурацию плагина.
+    default: op
